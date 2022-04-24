@@ -1,0 +1,6 @@
+name: AtomCore
+version: 1.3.3.7
+author: fippy#1337
+main: scha.efer.core.CorePlugin
+depend:
+  - Duels
